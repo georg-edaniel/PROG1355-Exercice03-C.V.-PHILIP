@@ -78,6 +78,13 @@ select:focus{
 
 }
 
+label{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #34495e;
+}
+
 footer {
     text-align: center;
     margin-top: 30px;
